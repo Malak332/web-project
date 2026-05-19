@@ -194,29 +194,3 @@ body {
 }
 
 
-#topBtn {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-
-  width: 55px;
-  height: 55px;
-
-  border: none;
-  border-radius: 50%;
-
-  background: linear-gradient(135deg, #0f4c5c, #2a9d8f);
-  color: white;
-
-  cursor: pointer;
-  display: none;
-
-  font-size: 20px;
-
-  box-shadow: 0 6px 15px rgba(0,0,0,0.2);
-  transition: 0.3s ease;
-}
-
-#topBtn:hover {
-  transform: scale(1.15);
-}
